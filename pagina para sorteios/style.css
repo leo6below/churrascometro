@@ -1,0 +1,37 @@
+body{
+    background-image: url(/assets/o-gato-cozinha-salsichas-na-grade-119935257.jpg);
+   background-size: 500px;
+  
+         
+}
+
+
+.container{
+    max-width: 300px;
+  margin: auto;
+    background-color: #a52a2a;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+}
+
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+#resultado{
+    
+   margin: auto;
+   margin-top: 50px;
+   max-width: 150px;
+   padding: 5px;
+    background-color: #a52a2a;
+    border-radius: 4px;
+    padding: 1px;
+}
+
